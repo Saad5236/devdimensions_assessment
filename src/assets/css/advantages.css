@@ -1,0 +1,21 @@
+.advantages-container {
+    text-align: center;
+    padding: 5em;
+}
+
+.advantages-tagline {
+    font-size: 18px;
+    color: grey;
+    margin-bottom: 2em;
+}
+
+.advantage .advantage-icon{
+    color: #1089d4;
+    font-size: 50px;
+}
+
+.advantage .advantage-heading {
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 0.5em;
+}

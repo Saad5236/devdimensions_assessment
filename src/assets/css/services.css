@@ -1,0 +1,51 @@
+.services-container {
+  text-align: center;
+  padding: 5em;
+  background-color: #f7fafa;
+}
+
+.services-container h2,
+.testimonials-container h2 {
+  font-size: 36px;
+}
+
+.services-container .services-tagline,
+.testimonials-container .testimonials-tagline {
+  font-size: 18px;
+  color: #7c8595;
+}
+
+.services-container .services-tagline {
+  margin-bottom: 3em;
+}
+
+.services,
+.testimonials {
+  margin: 0 1.2em;
+}
+
+.services .service {
+  display: grid;
+}
+
+.service .service-img {
+  max-width: 180px;
+  margin: 0 auto 1em auto;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+.service .service-header {
+  font-size: 22px;
+  font-weight: bold;
+  color: #1089d4;
+}
+
+.service p {
+  color: #7c8595;
+}

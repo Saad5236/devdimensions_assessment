@@ -1,0 +1,19 @@
+.ourcontacts {
+    text-align: center;
+    padding: 5em;
+}
+
+.ourcontacts p {
+    margin: 0;
+}
+
+.ourcontact .ourcontact-icon{
+    color: #1089d4;
+    font-size: 50px;
+}
+
+.ourcontact .ourcontact-heading {
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 0.5em;
+}

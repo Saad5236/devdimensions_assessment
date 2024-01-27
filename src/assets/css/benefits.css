@@ -1,0 +1,12 @@
+.benefits-main-heading {
+    margin-bottom: 2em;
+}
+
+.all-benefits {
+    display: grid;
+    gap: 1em;
+}
+
+.all-benefits h3 {
+    font-size: 22px;
+}
